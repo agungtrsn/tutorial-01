@@ -1,2 +1,3 @@
-NPM : 1806269575
-Nama: Agung Tresna
+NPM     : 1806269575
+Nama    : Agung Tresna
+Jurusan : Sistem Informasi
